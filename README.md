@@ -20,7 +20,7 @@ En mis repositorios podrás ver como desde cero he evolucionado a Analista de Da
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 <br><br>
 
-### 📍No dude en enviar un correo electrónico y/o conectarse<br>
+### 📍No dudes en acceder o contactar, ¿a que esperas?<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-munoz-ballesteros) 
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JavierMunBall)
