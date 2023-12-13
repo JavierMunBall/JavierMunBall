@@ -1,5 +1,7 @@
 # 👋WELCOME AND COME IN! 🚪
 
+En mis repositorios podrás ver como desde cero he evolucionado a Analista de Datos
+
 ## ⚡Tecnologías<br>
 
 ### 💻DataAnalysis&DataScience&BusinessIntelligence<br>
